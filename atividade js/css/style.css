@@ -1,0 +1,50 @@
+#main03{ width: 1108px;height: 600px;}
+#arthur{width: 70px; height: 70px; border: solid #000000; border-radius: 50%;}
+#h201{margin-top: 30px; font: outline; font-style: italic; color: aliceblue;}
+#if{margin-top: 50px;margin-left: 270px; border: cornflowerblue solid; border-radius: 20px; margin-bottom: 15px;}
+#if02{margin-top: 50px;margin-left: 390px; border: cornflowerblue solid; border-radius: 20px; margin-bottom: 15px;}
+#if02:hover{border: crimson solid; border-radius: 20px;}
+#main01{border: black solid; width: 1100px; margin-left: 115px; margin-top: 30px; background-color: white; }
+#h102{margin: auto;
+    width: 50%;
+    padding: 10px; text-align: center; font-weight: 300; font-style: oblique;}
+    #h102:hover{font-weight: 500; color: crimson;}
+    #if:hover{border: crimson solid; border-radius: 20px;}
+    #h301{margin: auto;
+        width: 50%;
+        padding: 5px; text-align: center;font-weight: 300; font-style: oblique; margin-right: 335px;}
+        #h301:hover{font-weight: 500; color: crimson;}
+        #carouselExampleFade{width: 500px; height: 500px; margin: 0 auto; border: black solid; border-bottom: black solid;}
+        #carouselExampleFade:hover{border: crimson solid;}
+        .d-block{width: 500px; height: 500px;}
+        .carousel-control-next-icon:hover{background-color: black; color: black;}
+        .carousel-control-prev-icon:hover{background-color: black; color: black;}
+        article{width: 250px; height: 380px; margin: auto;
+            width: 50%;
+            padding: 10px; margin-top: 30px;  border: lightblue solid; margin-bottom: 5px; background-color: white;}
+            #p{font-style: oblique;color:darkslategray; font-weight: 400; padding: 9px; margin-left: 16px;}
+           #h202{color:black;font-size:25px;line-height:30px;}
+           #div02{margin-right: 75px; margin-left: 20px;}
+                #h204:hover{color: limegreen;}
+                #h205:hover{color: red;}
+                 
+                 .card-header{background-color: black; border: cadetblue solid;border-radius: 10px; margin-top: 3px;}
+                 body{background-color: whitesmoke}
+                    #divfinal{margin-top: 30px; }
+                    .finalpg{font-family: cursive; font-weight: 300; font-style: italic;}
+                    .finalpg:hover{font-weight: 600; color: crimson;}
+                    #h206{font-weight: 300; font-style: oblique;margin-top: 5px; margin-left: 10px;}
+                    #h206:hover{color: crimson;font-weight: 500;}
+                        #h6{ margin-left: 780px;}
+                       #p0{margin-left: 1100px;} 
+                       #p0:hover{color: crimson; font-weight: 600;}
+                       #a01:hover{color: crimson; font-weight: 600;}
+                #divv{width: 700px; height: 234px; border: lightblue solid; margin: 0 auto;
+                margin-top: 20px; padding: 7px;}   
+                #p9:hover{color: crimson; font-weight: 600;}
+            #img03{margin-top:20px; margin-left: 338px; margin-bottom: 20px;}
+            .footer01{width: 1108; height: 200px; background-color: black;}
+                      
+
+        
+    
